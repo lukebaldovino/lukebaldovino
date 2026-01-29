@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate learner from Laguna</h3>
+<h3 align="center">I like to create things🏗️🚧</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
